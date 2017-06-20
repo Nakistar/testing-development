@@ -1,6 +1,6 @@
 <div class="row">
-  <a href="mailoto:info@nakistar.it">Scrivici</a>
+  <a href="mailto:info@nakistar.it">Scrivici</a>
 </div>
 <div class="row">
-  <a href="tel:+39459699">Chiamami</a>
+  <a href="tel:+3924690296">Chiamami</a>
 </div>
